@@ -1,4 +1,4 @@
-# [Volcano Hybrid](https://www.storz-bickel.com/en/volcanohybrid) workflows
+# [Volcano Hybrid](https://www.storz-bickel.com/en/volcanohybrid) Workflows
 ## Artemis 🌑
 - **Bag size** ~1 m length custom bag
 - **Total pump time:** 110 s
